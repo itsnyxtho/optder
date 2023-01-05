@@ -1,0 +1,15 @@
+{
+  "sequence": 260,
+  "template name": "Consuming a Web Service",
+  "template category": "Node.js / JavaScript",
+  "description": "This app consumes a web service and display the information in a grid",
+  "image": "/cloud/template-icons/node_js_web_services.png",
+  "app start": "exchange.js",
+  "routes": {},
+  "template dir": "consuming-a-web-service",
+  "current git repository": "",
+  "git repositories": [
+    ""
+  ],
+  "idx": 25
+}
